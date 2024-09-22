@@ -1,7 +1,8 @@
 {
-  "name": "revite",
+  "name": "eduwave_to_csv",
   "private": true,
   "type": "module",
+  "homepage": "https://m7medVision.github.io/eduwave_to_csv",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
