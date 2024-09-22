@@ -1,6 +1,10 @@
 import { create } from 'zustand'
 
-export const useContentFile = create((set) => ({
+interface ContentFile {
+  content: string
+  setContent: (content: string) => void
+}
+export const useContentFile = create<ContentFile>((set) => ({
   content: '',
   setContent: (content: string) => set({ content }),
 }))
