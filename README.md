@@ -7,11 +7,11 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/m7medvison/eduwave_to_csv/actions/workflows/format.yml">
-    <img src="https://github.com/m7medvison/eduwave_to_csv/actions/workflows/format.yml/badge.svg" alt="Check Format Badge"/>
+  <a href="https://github.com/m7medVision/eduwave_to_csv/actions/workflows/format.yml">
+    <img src="https://github.com/m7medvision/eduwave_to_csv/actions/workflows/format.yml/badge.svg" alt="Check Format Badge"/>
   </a>
-  <a href="https://github.com/m7medvison/eduwave_to_csv/actions/workflows/lint.yml">
-    <img src="https://github.com/m7medvison/eduwave_to_csv/actions/workflows/lint.yml/badge.svg" alt="Lint Badge"/>
+  <a href="https://github.com/m7medvision/eduwave_to_csv/actions/workflows/lint.yml">
+    <img src="https://github.com/m7medvision/eduwave_to_csv/actions/workflows/lint.yml/badge.svg" alt="Lint Badge"/>
   </a>
 </div>
 
