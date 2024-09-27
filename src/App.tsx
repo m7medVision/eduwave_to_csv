@@ -26,7 +26,7 @@ export default function App() {
         endTime: string;
         place: string;
       }
-      let timeTable = [] as TimeTable[];
+      const timeTable = [] as TimeTable[];
       for (const time of timeTableUncleaned) {
         const date = time?.[1];
         const startTime = time?.[2];
